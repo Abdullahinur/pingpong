@@ -8,17 +8,25 @@ button {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 100px;
   font-weight: 400;
   line-height: 200px;
-  font-family: begok_v15regular, monospace;
+  font-family: quirkyrobotmedium, monospace;
+  margin-bottom: -70px;
+  margin-top: -30px;
 }
 
 .header {
-  background-color: #fff;
-  height: 200px;
+  background-color: #c40108;
+  height: 500px;
   text-align: center;
 }
+
+.header p {
+  font-family: galaxy_far_far_awayregular, monospace;
+  font-size: 100px;
+}
+
 .right-sidebar {
   text-align: left;
   background-color: #000;
