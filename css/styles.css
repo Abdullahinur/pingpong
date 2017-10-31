@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+input {
+  color: #fff;
+}
+
 button {
   color: #000;
 }
@@ -58,3 +62,7 @@ h1 {
   grid-column-start: 1;
   grid-column-end: span 3;
 }
+
+#result {
+    display: none;
+  }
