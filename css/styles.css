@@ -46,6 +46,7 @@ h1 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 1;
+  t
 
 }
 
@@ -63,10 +64,7 @@ h1 {
   grid-column-end: span 3;
 }
 
-#result {
-    display: none;
-  }
 
-  #pingpong {
+  #pp {
     color: #000;
   }
