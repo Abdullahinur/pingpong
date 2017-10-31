@@ -66,3 +66,7 @@ h1 {
 #result {
     display: none;
   }
+
+  #pingpong {
+    color: #000;
+  }
